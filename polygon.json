@@ -1,0 +1,150 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a multi-chain scaling solution for Ethereum, enabling faster and cheaper transactions. It aims to improve the scalability and user experience of decentralized applications (DApps) on the Ethereum network.",
+    "tags": [
+        "layer 2",
+        "scaling solution",
+        "sidechain",
+        "ethereum compatibility",
+        "matic"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10,000,000,000"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of Stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "Layer 2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM Compatible"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "PolygonScan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Matic Explorer",
+            "url": "https://explorer.matic.network/"
+        },
+        {
+            "name": "Polygonscan Explorer",
+            "url": "https://explorer-mainnet.maticvigil.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Polygon Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://polygon.technology/security/"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Polygon Grants Program",
+            "url": "https://polygon.technology/grants/"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.polygon.technology/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Polygon RPC",
+            "url": "https://rpc-mainnet.maticvigil.com/"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "MyEtherWallet",
+            "url": "https://www.myetherwallet.com/"
+        },
+        {
+            "name": "WalletConnect",
+            "url": "https://walletconnect.org/"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        }
+    ]
+}
